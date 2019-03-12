@@ -1,0 +1,29 @@
+If a font name is made up of
+more than one word, it should be
+put in double quotes.
+=============================
+The default size of text in
+browsers is 16px. So a size of
+75% would be the equivalent of
+12px, and 200% would be 32px.
+=========================
+h1      24px
+h2      18px
+h3      14px
+body    12px
+
+==========================
+h1      200%
+h2      150%
+h3      117%
+body    75%
+==========================
+The vertical-align property is
+a common source of confusion.
+It is not intended to allow you to
+vertically align text in the middle
+of block level elements such as
+<p> and <div>, although it does
+have this effect when used with
+table cells (the <td> and <th>
+elements).

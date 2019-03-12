@@ -1,0 +1,12 @@
+blockquote{
+  float: right;
+  width: 275px;
+  font-size: 130%;
+  border-top: 1px solid #665544;
+  border-bottom: 1px solid #665544;
+  padding: 10px;
+  font-style: italic;
+  font-family: Georgia, Times, serif;
+  margin: 0px 0px 10px 10px;
+
+}

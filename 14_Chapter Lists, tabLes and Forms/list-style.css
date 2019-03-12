@@ -1,0 +1,10 @@
+body{
+  background-color: green;
+}
+ul{
+  list-style: circle;
+  width: 300px;
+}
+li{
+  margin: 10px, 0px, 0px, 0px;
+}
